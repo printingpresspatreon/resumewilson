@@ -1,16 +1,20 @@
 h1 {
-  padding-left: 30px;
+  position: relative;
+  left: 30px;
+  bottom: 20px;
+  font-size: 40px;
 }
 
 h2 {
   padding-left: 40px;
+  font-family: 'Poppins', sans-serif;
+  opacity: .7;
 }
 
 p {
   padding: 25px;
+  font-family: 'Bree Serif', serif;
 }
-
-
 
 #wrapper {
   height: 1100px;
@@ -33,6 +37,8 @@ p {
   left: -30px;
   top: 30px;
   border-radius: 23px;
+  color: #7714B9;
+  font-family: 'Poppins', sans-serif;
 }
 
 #experience {
